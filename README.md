@@ -1,6 +1,6 @@
 # interactive-tree-using-moisture-sensor
 
-An interactive tree was made using a moisture sensor and processing. As the user pours water on a plant pot - the moisture sensor detects the amount of water and after a threshold is crossed a virtual tree grows in Processing using the concept of fractals.
+An interactive tree was made using a moisture sensor interfaced with arduino microcontroller and processing. As the user pours water on a plant pot - the moisture sensor detects the amount of water and after a threshold is crossed, a virtual tree grows in Processing using the concept of fractals.
 
 # Video Link:
 Demo of the project is added in the link below.
